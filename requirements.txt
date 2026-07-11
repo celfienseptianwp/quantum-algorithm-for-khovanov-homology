@@ -3,5 +3,7 @@ scipy
 qiskit
 qiskit_aer
 matplotlib
+statsmodels
+plotly
 
 -e .
